@@ -1,4 +1,5 @@
-console.log('hello world');
-console.log('my name is');
-console.log('lets try this again');
-console.log('another example');
+const stuff = 7 + 7;
+console.log(stuff);
+
+const number = 8
+console.log(number);
